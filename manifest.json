@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "URL 파라미터 추출기",
+  "version": "1.0",
+  "description": "현재 URL의 파라미터를 추출하여 보여주는 확장 프로그램",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "images/icon48.png",
+      "64": "images/icon64.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "48": "images/icon48.png",
+    "64": "images/icon64.png",
+    "128": "images/icon128.png"
+  }
+} 
